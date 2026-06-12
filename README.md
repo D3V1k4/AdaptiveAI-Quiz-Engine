@@ -1,5 +1,3 @@
-# AdaptiveAI-Quiz-Engine
-AI-powered adaptive quiz engine using Reinforcement Learning and Gemini API
 # AdaptiveAI Quiz Engine
 
 An AI-powered adaptive learning system that combines Reinforcement Learning and Google's Gemini API to personalize quiz experiences for students.
