@@ -1,0 +1,5 @@
+numpy
+matplotlib
+colorama
+python-dotenv
+google-genai
